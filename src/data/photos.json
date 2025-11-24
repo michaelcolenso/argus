@@ -1,0 +1,199 @@
+{
+  "photos": [
+    {
+      "id": "sunrise-lake",
+      "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+      "collection": "Landscapes",
+      "analysis": {
+        "score": 87,
+        "technical": {
+          "exposure": 88,
+          "focus": 92,
+          "composition": 84
+        },
+        "artistic": {
+          "impact": 90,
+          "creativity": 82,
+          "style": 88
+        },
+        "insights": {
+          "description": "Golden sunrise over a glassy alpine lake framed by mountain silhouettes.",
+          "mood": "Calm optimism",
+          "subjects": ["Sunrise", "Lake", "Mountains", "Reflection"],
+          "colors": ["#f6c667", "#2f3b55", "#7fb2d4", "#c6d7e5"]
+        },
+        "aiReview": {
+          "summary": "Reads as a peaceful travel hero shot with excellent tonal control in the sky.",
+          "strengths": [
+            "Smooth highlight rolloff preserves detail in the clouds",
+            "Foreground-to-background sharpness keeps the reflection crisp"
+          ],
+          "critique": [
+            "Composition leans slightly heavy to the left shoreline",
+            "Minor banding visible in the deepest blues"
+          ],
+          "actions": [
+            "Add a subtle vignette to center the eye on the sun",
+            "Lift shadow noise in the water using a gentle luminance curve"
+          ]
+        }
+      }
+    },
+    {
+      "id": "city-portrait",
+      "url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+      "collection": "Portraits",
+      "analysis": {
+        "score": 81,
+        "technical": {
+          "exposure": 79,
+          "focus": 85,
+          "composition": 78
+        },
+        "artistic": {
+          "impact": 83,
+          "creativity": 76,
+          "style": 82
+        },
+        "insights": {
+          "description": "Street portrait with shallow depth of field and neon reflections.",
+          "mood": "Introspective energy",
+          "subjects": ["Portrait", "City lights", "Reflections"],
+          "colors": ["#111218", "#4ec1e8", "#f58ea9", "#f0e7dc"]
+        },
+        "aiReview": {
+          "summary": "Strong cinematic vibe that sells the downtown atmosphere.",
+          "strengths": [
+            "Catchlights and rim lighting separate the subject from the background",
+            "Color contrast between cyan and magenta feels intentional"
+          ],
+          "critique": [
+            "Slight front-focus softens the eyes",
+            "Background bokeh is bright enough to compete with the face"
+          ],
+          "actions": [
+            "Use a radial mask to add 0.2 EV to the eyes and lips",
+            "Lower highlight saturation in the far right neon to calm distractions"
+          ]
+        }
+      }
+    },
+    {
+      "id": "coffee-flatlay",
+      "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=900&q=80",
+      "collection": "Editorial",
+      "analysis": {
+        "score": 74,
+        "technical": {
+          "exposure": 71,
+          "focus": 78,
+          "composition": 75
+        },
+        "artistic": {
+          "impact": 72,
+          "creativity": 74,
+          "style": 77
+        },
+        "insights": {
+          "description": "Flatlay of coffee service with pastries on a rustic tabletop.",
+          "mood": "Warm hospitality",
+          "subjects": ["Coffee", "Pastry", "Tableware"],
+          "colors": ["#503121", "#d6b99d", "#f6ede4", "#9e8c76"]
+        },
+        "aiReview": {
+          "summary": "Product story is clear but lacks a defined hero element.",
+          "strengths": [
+            "Consistent top lighting minimizes harsh shadows",
+            "Color palette matches a cozy brand tone"
+          ],
+          "critique": [
+            "Scene feels crowded on the left edge",
+            "Highlights on the spoons clip slightly"
+          ],
+          "actions": [
+            "Re-frame with a subtle clockwise rotation to balance space",
+            "Brush down specular highlights and add clarity to the croissant"
+          ]
+        }
+      }
+    },
+    {
+      "id": "night-bridge",
+      "url": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=900&q=80",
+      "collection": "Cityscapes",
+      "analysis": {
+        "score": 79,
+        "technical": {
+          "exposure": 82,
+          "focus": 80,
+          "composition": 77
+        },
+        "artistic": {
+          "impact": 78,
+          "creativity": 75,
+          "style": 79
+        },
+        "insights": {
+          "description": "Long exposure of a suspension bridge with light trails at night.",
+          "mood": "Electric motion",
+          "subjects": ["Bridge", "Light trails", "Water"],
+          "colors": ["#0f1724", "#1f4e73", "#f4b400", "#f26a4b"]
+        },
+        "aiReview": {
+          "summary": "Dynamic lead lines with good control over mixed color temperatures.",
+          "strengths": [
+            "Trailing headlights add energy without blowing highlights",
+            "Cable geometry guides the viewer toward the horizon"
+          ],
+          "critique": [
+            "Verticals lean inward on the right tower",
+            "Shadow noise visible along the waterline"
+          ],
+          "actions": [
+            "Apply lens correction and a minor perspective warp",
+            "Denoise the midtones and add subtle contrast to the sky"
+          ]
+        }
+      }
+    },
+    {
+      "id": "studio-still-life",
+      "url": "https://images.unsplash.com/photo-1499955085172-a104c9463ece?auto=format&fit=crop&w=900&q=80",
+      "collection": "Studio",
+      "analysis": {
+        "score": 85,
+        "technical": {
+          "exposure": 86,
+          "focus": 89,
+          "composition": 83
+        },
+        "artistic": {
+          "impact": 84,
+          "creativity": 86,
+          "style": 87
+        },
+        "insights": {
+          "description": "Minimalist still life of citrus, ceramics, and greenery on pastel surfaces.",
+          "mood": "Fresh and playful",
+          "subjects": ["Citrus", "Ceramics", "Leaves"],
+          "colors": ["#f4d16b", "#f7a072", "#4f7258", "#f2f2f2"]
+        },
+        "aiReview": {
+          "summary": "Polished studio look with great separation between foreground props.",
+          "strengths": [
+            "Soft key light keeps texture without harsh speculars",
+            "Color blocking feels intentional and on-brand"
+          ],
+          "critique": [
+            "Minor cyan cast on the white ceramic",
+            "Top-left corner is empty compared to the rest of the frame"
+          ],
+          "actions": [
+            "Neutralize the ceramic whites with a selective WB adjustment",
+            "Add a small prop or gradient to balance the top-left negative space"
+          ]
+        }
+      }
+    }
+  ]
+}
